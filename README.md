@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fake-notification/main/assets/app_icon.png" width="128" alt="Fake Notification Logo" />
   <h1>🎭 Fake Notification</h1>
   <p><strong>The ultimate, ultra-realistic local notification simulator with native Android injection.</strong></p>
   
