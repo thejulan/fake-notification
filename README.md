@@ -23,7 +23,7 @@
 
 ## 📸 Screenshots
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fake-notification/main/assets/screenshot_home.png" width="250" alt="Home Screen" />
+  <img src="https://raw.githubusercontent.com/thejulan/fake-notification/refs/heads/main/screenshot_home.png" width="250" alt="Home Screen" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <p align="center"><i>Experience a breathtaking 2026 UI/UX built with pure Phosphor icons and the Outfit font.</i></p>
