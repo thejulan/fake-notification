@@ -38,7 +38,7 @@
 - **Offline & Private:** Fake Notification requests *no* internet permission. All variations and operations occur strictly locally on your device.
 
 ## 🚀 Quick Start
-1. Go to the [**Releases**](https://github.com/fake-notification/releases) page.
+1. Go to the [**Releases**](https://github.com/thejulan/fake-notification/releases) page.
 2. Download `app-release.apk`.
 3. Install the APK on your Android device (ensure "Install from Unknown Sources" is allowed).
 4. Launch the app, grant the requested notification permissions, and start spoofing!
